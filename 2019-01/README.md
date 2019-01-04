@@ -2,9 +2,17 @@
 
 ## “BT 天堂”站长侵犯著作权被判三年
 
-2019-01-02
++ 时间
+
+    2019-01-02
  
-[https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw](https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw)
++ 来源
+
+    [https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw](https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-04-bt.png)
 
 ## 权健怒怼侠客岛
 
