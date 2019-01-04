@@ -12,6 +12,8 @@
  
 + 来源
 
+    “扫黄打非” 官方微信公众号。
+    
     [https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw](https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw)
 
 + 截图
@@ -26,6 +28,8 @@
     
 + 来源
 
+    新华网
+    
     [http://www.xinhuanet.com/world/2019-01/03/c_1210029802.htm](http://www.xinhuanet.com/world/2019-01/03/c_1210029802.htm)
 
 + 截图
