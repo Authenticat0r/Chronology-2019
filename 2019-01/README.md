@@ -197,6 +197,6 @@
 
     ![津云新闻截图](assets/2019-01-07-quanjian.png)
     
-+ 相关阅读
++ 前情提要
 
     请参阅 [权健怒怼侠客岛](https://github.com/Authenticat0r/Chronology-2019/blob/master/2019-01/README.md#%E6%9D%83%E5%81%A5%E6%80%92%E6%80%BC%E4%BE%A0%E5%AE%A2%E5%B2%9B) 有关章节
