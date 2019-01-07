@@ -235,6 +235,22 @@
 
     ![新闻截图](assets/2019-01-06-abduction-daughter.png)
 
+# 没有上班却在个人所得税 APP 中有就职信息
+
++ 时间
+
+    2019-01-07 (新闻时间)
+
++ 来源
+
+    央视新闻
+    
+    [http://m.news.cctv.com/2019/01/07/ARTIn5u8bTy3PAUbTTJwTBec190107.shtml](http://m.news.cctv.com/2019/01/07/ARTIn5u8bTy3PAUbTTJwTBec190107.shtml)
+
++ 截图
+
+    ![新闻图片](assets/2019-01-07-personal-income-tax.png)
+
 # [后续] 权健公司实际控制人束昱辉等18人被依法刑事拘留
 
 + 时间
