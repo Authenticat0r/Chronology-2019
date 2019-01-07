@@ -105,6 +105,26 @@
 
     ![新闻截图](assets/2019-01-04-Khashoggi.png)
 
+# 妻子举报大连海关“科级”丈夫睡 14 名代购, 其中一名是处女
+
++ 时间
+
+    2019-01-06 (微博文章发布时间)
+
++ 来源
+
+    微博
+    
+    [https://www.weibo.com/ttarticle/p/show?id=2309404325189360998090](https://www.weibo.com/ttarticle/p/show?id=2309404325189360998090)
+
++ 截图
+
+    ![]()
+
++ 官方回应
+
+    __TODO__
+
 # 外交官孙子举报其祖父与父亲
 
 外交官孙子举报祖父与其亲生女儿乱伦、杀人，父亲乱搞男女关系，离婚后拒付抚养费。
@@ -122,3 +142,7 @@
 + 视频 (墙内源已被删除)
 
     [https://www.youtube.com/watch?v=CS18-QCP20k](https://www.youtube.com/watch?v=CS18-QCP20k)
+
++ 当事人回应
+
+    已报警 __TODO__
