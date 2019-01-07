@@ -104,3 +104,17 @@
 + 截图
 
     ![新闻截图](assets/2019-01-04-Khashoggi.png)
+
+# 外交官孙子举报其祖父与父亲
+
+外交官孙子举报祖父与其亲生女儿乱伦、杀人，父亲乱搞男女关系，离婚后拒付抚养费。
+
++ 来源
+
+    互联网 (来源已被删除)
+    
+    [https://www.youtube.com/watch?v=CS18-QCP20k](https://www.youtube.com/watch?v=CS18-QCP20k)
+
++ 视频 (墙内源已被删除)
+
+    [https://www.youtube.com/watch?v=CS18-QCP20k](https://www.youtube.com/watch?v=CS18-QCP20k)
