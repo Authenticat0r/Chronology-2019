@@ -27,7 +27,7 @@
  
 + 来源
 
-    “扫黄打非” 官方微信公众号。
+    “扫黄打非” 官方微信公众号
     
     [https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw](https://mp.weixin.qq.com/s/SKISbSNbLQ1I5IJ_NfDQpw)
 
@@ -61,9 +61,9 @@
     
 + 来源
 
-    网络 (未找到最早发布源)。
+    网络 (未找到最早发布源)
 
-    来源之一：新浪新闻。
+    来源之一：新浪新闻
     
     [https://finance.sina.com.cn/chanjing/gsnews/2019-01-04/doc-ihqhqcis2970952.shtml](https://finance.sina.com.cn/chanjing/gsnews/2019-01-04/doc-ihqhqcis2970952.shtml)
 
@@ -109,7 +109,7 @@
     
 + 来源
 
-    新华网。
+    新华网
     
     [http://www.xinhuanet.com/world/2019-01/03/c_1210029802.htm](http://www.xinhuanet.com/world/2019-01/03/c_1210029802.htm)
 
