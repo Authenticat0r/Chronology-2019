@@ -101,6 +101,26 @@
 
     ![新闻图片](assets/2019-01-07-personal-income-tax.png)
 
+# 记者团菲律宾官方旅行团奇遇记
+
++ 时间
+
+    2019-01-07 (微博文章发布时间)
+
++ 来源
+
+    微博
+    
+    [https://weibo.com/1873398564/HaTAKEJvZ?type=comment](https://weibo.com/1873398564/HaTAKEJvZ?type=comment)
+    
+    文章链接
+    
+    [https://weibo.com/ttarticle/p/show?id=2309404325969790935091](https://weibo.com/ttarticle/p/show?id=2309404325969790935091)
+
++ 截图
+
+    ![微博文章截图](assets/2019-01-07-philippines.png)
+
 # [后续] 权健公司实际控制人束昱辉等18人被依法刑事拘留
 
 + 时间
@@ -120,3 +140,23 @@
 + 前情提要
 
     请参阅 [权健怒怼侠客岛](../00/README.md#权健怒怼侠客岛) 有关章节
+
+# [后续] 张扣扣案一审判决死刑, 当庭表示上诉
+
++ 时间
+
+    2019-01-08
+    
++ 来源
+
+    新京报
+    
+    [https://m.bjnews.com.cn/detail/154694071914263.html](https://m.bjnews.com.cn/detail/154694071914263.html)
+    
++ 截图
+
+    ![新京报截图](assets/2019-01-08-zhangkoukou.png)
+
++ 前情提要
+
+    __TODO__
