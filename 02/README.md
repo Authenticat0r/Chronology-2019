@@ -189,7 +189,9 @@
 
     不详 (内网已删除)
     
-    [纽约时报中文网](https://cn.nytimes.com/china/20190108/man-attacks-chinese-elementary-students-in-beijing-injuring-20/)
+    纽约时报中文网
+    
+    [https://cn.nytimes.com/china/20190108/man-attacks-chinese-elementary-students-in-beijing-injuring-20/](https://cn.nytimes.com/china/20190108/man-attacks-chinese-elementary-students-in-beijing-injuring-20/)
     
 + 截图
 
