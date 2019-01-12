@@ -53,6 +53,24 @@
 
     __TODO__
 
+# 贵州利美康隆鼻手术致女大学生死亡
+
++ 时间
+
+    2019-01-03 (事发时间)
+
++ 来源
+
+    找不到了
+    
+    新浪财经
+    
+    [http://finance.sina.com.cn/roll/2019-01-06/doc-ihqhqcis3683282.shtml](http://finance.sina.com.cn/roll/2019-01-06/doc-ihqhqcis3683282.shtml)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-03-cosmetic-surgery.png)
+
 # [后续] 华为处理使用 iPhone 发推当事员工
 
 + 时间

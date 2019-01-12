@@ -220,4 +220,19 @@
 + 前情提要
 
     __TODO__
+
+# 亚马逊创始人贝索斯离婚
+
++ 时间
+
+    2019-01-09 (推特发布时间)
     
++ 来源
+
+    推特
+    
+    [https://twitter.com/JeffBezos/status/1083004911380393985](https://twitter.com/JeffBezos/status/1083004911380393985)
+    
++ 截图
+
+    ![推特截图](assets/2019-01-09-jeff-bezos.png)
