@@ -236,3 +236,37 @@
 + 截图
 
     ![推特截图](assets/2019-01-09-jeff-bezos.png)
+
+# 短视频审核划定100条红线：宣扬颓废人生观等内容不得出现
+
++ 时间
+
+    2019-01-09 (发布时间)
+
++ 来源
+
+    中国网络视听节目服务协会官网
+    
+    [http://www.cnsa.cn/index.php/infomation/dynamic_details/id/69/type/2.html](http://www.cnsa.cn/index.php/infomation/dynamic_details/id/69/type/2.html)
+
++ 截图
+
+    ![通知截图](assets/2019-01-09-short-video.png)
+
+# 韩速滑女王起诉前教练姓侵
+
++ 时间
+
+    2019-01-09 (新闻时间)
+    
++ 来源
+
+    韩联社 (我看不懂)
+    
+    网易新闻链接
+    
+    [http://sports.163.com/19/0109/09/E52PC63T00058782.html](http://sports.163.com/19/0109/09/E52PC63T00058782.html)
+    
++ 截图
+
+    ![网易新闻截图](assets/2019-01-09-short-track-speeding-skating.png)
