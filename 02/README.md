@@ -121,6 +121,42 @@
 
     ![微博文章截图](assets/2019-01-07-philippines.png)
 
+# 射电望远镜接收到疑似外星人信号
+
++ 时间
+
+    2019-01-07
+    
++ 来源
+
+    《自然》杂志 (不会找)
+    
+    新浪财经
+    
+    [https://tech.sina.com.cn/d/s/2019-01-11/doc-ihqhqcis5089699.shtml](https://tech.sina.com.cn/d/s/2019-01-11/doc-ihqhqcis5089699.shtml)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-07-alien.png)
+
+# [含后续] 江苏金湖145名儿童服过期疫苗
+
++ 时间
+
+    2019-01-07 (新闻发布时间)
+
++ 来源
+
+    扬子晚报 (未找到)
+    
+    新浪财经 (后续《江苏金湖疾控中心领导全部停职》)
+    
+    [https://finance.sina.com.cn/roll/2019-01-09/doc-ihqhqcis4627600.shtml](https://finance.sina.com.cn/roll/2019-01-09/doc-ihqhqcis4627600.shtml)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-07-vaccine.png)
+
 # 酒井法子在线乞讨
 
 + 时间
@@ -286,3 +322,19 @@
 + 截图
 
     ![网信办官网截图](assets/2019-01-10-block-chain.png)
+
+# 上海凤凰子公司与ofo达成和解：剩余货款同意对方分期支付
+
++ 时间
+
+    2019-01-10
+    
++ 来源
+
+    每日经济新闻
+    
+    [http://www.nbd.com.cn/articles/2019-01-10/1289982.html](http://www.nbd.com.cn/articles/2019-01-10/1289982.html)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-10-ofo.png)
