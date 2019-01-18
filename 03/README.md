@@ -92,3 +92,21 @@
 + 相关阅读
 
     权健事件 __TODO__
+
+# 瑞幸咖啡拒收现金
+
++ 时间
+
+    2019-01-17 (微博时间)
+    
++ 来源
+
+    网络
+    
+    财经网新浪微博
+    
+    [https://www.weibo.com/1642088277/HcfsypIvi](https://www.weibo.com/1642088277/HcfsypIvi)
+    
++ 截图
+
+    ![微博截图](assets/2019-01-17-luckin-coffee.png)
