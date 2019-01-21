@@ -130,3 +130,37 @@
 + 前情提要
 
     [北京宣武师范学校附属第一小学发生袭击事件，20 名儿童受伤](../02/README.md#北京宣武师范学校附属第一小学发生袭击事件，20-名儿童受伤)
+
+# 广西北海艺术设计学院奇葩思政课期末试卷
+
++ 时间
+    
+    2019-01-20
+    
++ 来源
+
+    微博
+    
+    新闻：搜狐新闻
+    
+    [https://weibo.com/5890672121/HcV5F74RT](https://weibo.com/5890672121/HcV5F74RT)
+    
++ 截图
+
+    ![微博截图](assets/2019-01-20-beihai-college-of-art-and-design-weibo.png)
+    
+    ![试卷截图](assets/2019-01-20-beihai-college-of-art-and-design-source-1.jpg)
+    
+    ![试卷截图](assets/2019-01-20-beihai-college-of-art-and-design-source-2.jpg)
+    
+    ![试卷截图](assets/2019-01-20-beihai-college-of-art-and-design-source-3.jpg)
+    
+    ![试卷截图](assets/2019-01-20-beihai-college-of-art-and-design-source-4.jpg)
+    
+    ![试卷截图](assets/2019-01-20-beihai-college-of-art-and-design-source-5.jpg)
+
+    ![投稿截图](assets/2019-01-20-beihai-college-of-art-and-design-source-6.jpg)
+
++ 后续
+
+    __TODO__
