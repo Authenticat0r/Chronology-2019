@@ -27,3 +27,22 @@
     
     [吴秀波送小三入狱](../03/README.md#吴秀波送小三入狱)
     
+# [后续] 个人所得税APP更新，不需填写房屋出租人信息
+
++ 时间
+
+    2019-01-20 (新闻发布时间)
+
++ 来源
+
+    上海证券报
+    
+    [https://mp.weixin.qq.com/s/DHuUntUOxzXGqgfcbAwM_g](https://mp.weixin.qq.com/s/DHuUntUOxzXGqgfcbAwM_g)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-20-individual-income-tax.png)
+
++ 前情提要
+
+    [税改引发房租涨价大讨论](../00/README.md#税改引发房租涨价大讨论)
