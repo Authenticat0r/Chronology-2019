@@ -25,6 +25,26 @@
 
     __TODO__
 
+# 任正非内部讲话：要放弃部分平庸的员工，但要避免过度裁员
+
++ 时间
+
+    2019-01-20 (文章发布时间)
+    
++ 来源
+
+    虎嗅网
+    
+    [https://www.huxiu.com/article/282074.html](https://www.huxiu.com/article/282074.html)
+    
++ 截图
+
+    ![文章截图](assets/2019-01-20-renzhengfei-huawei.png)
+    
++ 相关阅读
+
+    华为辞退 36 岁以上老员工 __TODO__
+
 # [后续] 吴秀波小三陈昱霖 instagram 被扒出 生活奢靡
 
 + 时间
