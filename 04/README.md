@@ -1,7 +1,31 @@
 第四周
 ===
+   
+# 拼多多一夜被薅 200 亿
 
-# 吴秀波小三陈昱霖 instagram 被扒出 生活奢靡
+    这不算 bug，所以不会在内容中使用 bug 修饰该问题。
+
++ 时间
+
+    2019-01-20 凌晨 (被刷开始时间)
+    
++ 来源
+
+    网络 (口口相传)
+    
+    媒体报道：新浪新闻
+    
+    [https://finance.sina.com.cn/stock/hyyj/2019-01-20/doc-ihrfqziz9396066.shtml](https://finance.sina.com.cn/stock/hyyj/2019-01-20/doc-ihrfqziz9396066.shtml)
+
++ 截图
+
+    ![新闻截图](assets/2019-01-20-pdd.png)
+    
++ 后续
+
+    __TODO__
+
+# [后续] 吴秀波小三陈昱霖 instagram 被扒出 生活奢靡
 
 + 时间
 
