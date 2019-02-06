@@ -218,3 +218,19 @@
 + 截图
 
     ![V2EX截图](assets/2019-01-22-huawei-delete-twitter-image.png)
+
+# 今日头条接盘锤子科技
+
++ 时间
+
+    2019-01-22
+    
++ 来源
+
+    新浪新闻
+    
+    [https://tech.sina.com.cn/i/2019-01-22/doc-ihrfqzka0086500.shtml](https://tech.sina.com.cn/i/2019-01-22/doc-ihrfqzka0086500.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-22-smartisan.png)
