@@ -205,7 +205,7 @@
 
 # 华为手机自动删除推特图片
 
->>> 注意！此新闻可能是谣言
+> 注意！此新闻可能是谣言
 
 + 时间
 
@@ -218,3 +218,21 @@
 + 截图
 
     ![V2EX截图](assets/2019-01-22-huawei-delete-twitter-image.png)
+
+# 今日头条收购锤子科技
+
++ 时间
+
+    2019-01-22
+    
++ 来源
+
+    网络
+    
+    新浪新闻
+    
+    [https://tech.sina.com.cn/i/2019-01-22/doc-ihqfskcn9424642.shtml](https://tech.sina.com.cn/i/2019-01-22/doc-ihqfskcn9424642.shtml)
+    
++ 截图
+
+    [新闻截图](assets/2019-01-22-bytedance-smartisan.png)
