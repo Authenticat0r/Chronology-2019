@@ -261,6 +261,48 @@
 
     ![新闻截图](assets/2019-01-22-bytedance-smartisan.png)
 
+# 《搜索引擎百度已死》
+
++ 时间
+
+    2019-01-22
+    
++ 来源
+
+    微信公众号：新闻实验室
+    
+    [https://mp.weixin.qq.com/s/OL-WcP0LgGktNgL5yd1hiQ](https://mp.weixin.qq.com/s/OL-WcP0LgGktNgL5yd1hiQ)
+    
++ 截图
+
+    ![文章截图](assets/2019-01-22-baidu.png)
+
++ 后续
+
+    [\[后续\] 百度流量冲向必应 微软搜索引擎崩溃](#后续-百度流量冲向必应-微软搜索引擎崩溃)
+
+# [后续] 百度流量冲向必应 微软搜索引擎崩溃
+
++ 时间
+
+    2019-01-23
+    
++ 来源
+
+    网络
+    
+    新浪新闻
+    
+    [http://finance.sina.com.cn/chanjing/gsnews/2019-01-24/doc-ihqfskcn9968013.shtml](http://finance.sina.com.cn/chanjing/gsnews/2019-01-24/doc-ihqfskcn9968013.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-23-baidu-bing.png)
+    
++ 前情提要
+
+    [《搜索引擎百度已死》](#《搜索引擎百度已死》)
+
 # [后续] 官方通报高校雷人考题调查结果：出题人引咎辞职，副校长等3人被撤职
 
 + 时间
