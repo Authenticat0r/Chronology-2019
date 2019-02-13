@@ -488,6 +488,24 @@
 
     [程序员锁死服务器毁掉600万游戏项目](#程序员锁死服务器毁掉600万游戏项目)
 
+# DeepMind 电竞 AI “AlphaStar” 以 10-1 击败《星际II》职业选手
+
++ 时间
+
+    2019-01-25
+
++ 来源
+
+    新闻
+    
+    cnBeta
+     
+    [https://hot.cnbeta.com/articles/game/812499](https://hot.cnbeta.com/articles/game/812499)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-25-alpha-star-wins-person.png)
+
 # [后续] 当地人爆料孙楠在徐州有别墅 家中有外籍佣人
 
 + 时间
