@@ -384,6 +384,28 @@
 
     ![微博截图](assets/2019-01-24-yanghengjun.png)
 
+# 新东方改编版《沙漠骆驼》——《释放自我》
+
++ 时间
+
+    2019-01-24
+    
++ 来源
+
+    微博
+    
+    优酷视频
+    
+    [https://v.youku.com/v_show/id_XNDAyODU0NTcwMA==](https://v.youku.com/v_show/id_XNDAyODU0NTcwMA==)
+    
++ 截图
+
+    ![视频截图](assets/2019-01-24-xdf.png)
+
++ 原视频
+
+    [新东方改编版《沙漠骆驼》——《释放自我》.mp4](assets/新东方改编版《沙漠骆驼》——《释放自我》.mp4)
+
 # [后续] 无学历教育资质 华夏学宫被调查
 
     孙楠可能持有华夏学宫股份
