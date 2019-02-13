@@ -299,6 +299,25 @@
 
     ![微博截图](assets/2019-01-23-pengsanyuan.jpg)
 
+# 委内瑞拉与美国断交
+
+    因为美国承认反对派领导人
+
++ 时间
+
+    2019-01-23
+    
++ 来源
+
+    新华社
+    
+    [http://www.xinhuanet.com/world/2019-01/24/c_1124033835.htm](http://www.xinhuanet.com/world/2019-01/24/c_1124033835.htm)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-23-venezuela-america.png)
+
+
 # [后续] 百度流量冲向必应 微软搜索引擎崩溃
 
 + 时间
