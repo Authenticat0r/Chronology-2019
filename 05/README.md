@@ -32,3 +32,25 @@
 + 截图
 
     ![新闻截图](assets/2019-01-27-fuzhou-fire.jpg)
+
+# 曲婉婷继续为母亲发声
+
+    云孝顺，一窝人渣
+    
++ 时间
+
+    2019-01-28
+    
++ 来源
+
+    新浪微博：曲婉婷Wanting
+    
+    [https://weibo.com/1816618865/He2oga2Qh](https://weibo.com/1816618865/He2oga2Qh)
+    
++ 截图
+
+    ![微博截图](assets/2019-01-28-quwanting.png)
+
++ 相关阅读
+
+    曲婉婷母亲贪污哈尔滨下岗工人安置费
