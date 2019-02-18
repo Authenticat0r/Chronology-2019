@@ -16,3 +16,19 @@
 + 截图
 
     ![新闻截图](assets/2019-01-27-yanchunfeng.png)
+
+# 福州闹市突发大火
+
++ 时间
+
+    2019-01-27
+    
++ 来源
+
+    新福建
+    
+    [http://img.fjdaily.com/data/fjrbwap/2019/01/27/cms_3061150877172736.html](http://img.fjdaily.com/data/fjrbwap/2019/01/27/cms_3061150877172736.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-27-fuzhou-fire.jpg)
