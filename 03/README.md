@@ -267,6 +267,26 @@
 
     ![微博截图](assets/2019-01-17-luckin-coffee.png)
     
+# 陆丰“毒品村”原支书蔡东家被依法执行死刑
+
++ 时间
+
+    2019-01-17
+
++ 来源
+
+    南方
+    
+    [https://static.nfapp.southcn.com/content/201901/17/c1856019.html](https://static.nfapp.southcn.com/content/201901/17/c1856019.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-01-17-shot-the-drug-dealer.png)
+    
++ 相关阅读
+
+    海陆丰毒品村
+    
 # [后续] 甘肃 8 岁女孩受伤事件丢口红老师接受警方询问
 
 + 时间
