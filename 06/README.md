@@ -140,3 +140,27 @@
 + 截图
 
     ![微博截图](assets/2019-02-07-zhouhongyi.png)
+
+# 土耳其外交部发言人 Hami Aksoy 谴责新疆地区有关情况和政策
+
+    指责维族音乐家艾依提死于狱中
+
++ 时间
+
+    2019-02-07
+    
++ 来源
+
+    外网
+    
+    时代周刊
+    
+    [http://time.com/5526022/turkey-china-concentration-camps-uighurs/](http://time.com/5526022/turkey-china-concentration-camps-uighurs/)
+
++ 截图
+
+    ![新闻截图](assets/2019-02-07-turkey-xinjiang.png)
+    
++ 后续
+
+    [\[后续\] 官媒发视频证明土方所述维族音乐家艾依提健在](../07/README.md#后续-官媒发视频证明土方所述维族音乐家艾依提健在)
