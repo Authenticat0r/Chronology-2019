@@ -221,6 +221,44 @@
 
     ["鱼酱"造谣一家三口因差评被外卖灭门](#鱼酱造谣一家三口因差评被外卖灭门)
 
+# [后续] 浙江电视台《王牌对王牌》后期花三天三夜 P 掉吴秀波
+
++ 时间
+
+    2019-01-31（朋友圈截图时间）
+    
++ 来源
+
+    新浪微博：穿帮君
+    
+    [https://weibo.com/5671786192/HeL4qcp8Z](https://weibo.com/5671786192/HeL4qcp8Z)
+    
++ 截图
+
+    ![微博截图](assets/2019-01-31-wuxiubo.png)
+
+    ![朋友圈截图](assets/2019-01-31-wuxiubo-screen-short-01.jpg)
+    
+    ![视频截图](assets/2019-01-31-wuxiubo-screen-short-02.jpg)
+    
+    ![视频截图](assets/2019-01-31-wuxiubo-screen-short-03.jpg)
+    
+    ![视频截图](assets/2019-01-31-wuxiubo-screen-short-04.jpg)
+    
+    ![视频截图](assets/2019-01-31-wuxiubo-screen-short-05.jpg)
+    
+    ![视频截图](assets/2019-01-31-wuxiubo-screen-short-06.jpg)
+
++ 前情提要
+
+    [吴秀波送小三入狱](../03/README.md#吴秀波送小三入狱)
+
+    [\[后续\] 吴秀波小三陈昱霖 instagram 被扒出 生活奢靡](../04/README.md#后续-吴秀波小三陈昱霖-instagram-被扒出-生活奢靡)
+
++ 后续
+
+    [\[后续\] 北京电视台为删吴秀波剪掉所有主持人报幕 "纯享版"春晚竟得收视率第一](../06/README.md#后续-北京电视台为删吴秀波剪掉所有主持人报幕-"纯享版"春晚竟得收视率第一)
+
 # [后续] 桥西区疾病预防控制中心发布《关于汇通社区卫生服务中心误种疫苗的情况说明》
 
 + 时间

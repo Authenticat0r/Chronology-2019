@@ -52,3 +52,43 @@
 + 后续
 
     [\[后续\] 上海新兴医药全面停产](../07/README.md#后续-上海新兴医药全面停产)
+
+# [后续] 北京电视台为删吴秀波剪掉所有主持人报幕 "纯享版"春晚竟得收视率第一
+
++ 时间
+
+    2019-02-06
+    
++ 来源
+
+    网络讨论
+    
+    新浪微博：头条新闻
+    
+    [https://weibo.com/1618051664/HfmAPy10s](https://weibo.com/1618051664/HfmAPy10s)
+    
++ 截图
+
+    ![微博截图](assets/2019-02-06-wuxiubo-beijing-chunwan.png)
+    
+    ![视频截图](assets/2019-02-06-wuxiubo-beijing-chunwan-01.jpg)
+    
+    ![视频截图](assets/2019-02-06-wuxiubo-beijing-chunwan-02.jpg)
+    
+    ![视频截图](assets/2019-02-06-wuxiubo-beijing-chunwan-03.jpg)
+    
+    ![视频截图](assets/2019-02-06-wuxiubo-beijing-chunwan-04.jpg)
+    
+    ![视频截图](assets/2019-02-06-wuxiubo-beijing-chunwan-result.jpeg)
+
++ 前情提要
+
+    [吴秀波送小三入狱](../03/README.md#吴秀波送小三入狱)
+
+    [\[后续\] 吴秀波小三陈昱霖 instagram 被扒出 生活奢靡](../04/README.md#后续-吴秀波小三陈昱霖-instagram-被扒出-生活奢靡)
+
+    [\[后续\] 浙江电视台《王牌对王牌》后期花三天三夜 P 掉吴秀波](../05/README.md#后续-浙江电视台《王牌对王牌》后期花三天三夜-P-掉吴秀波)
+
++ 相关阅读
+
+    2018 BTV 春晚，"火山小视频"全部改为"激萌"
