@@ -205,6 +205,50 @@
 
     [\[后续\] 官媒发视频证明土方所述维族音乐家艾依提健在](../07/README.md#后续-官媒发视频证明土方所述维族音乐家艾依提健在)
 
+# 翟天临学术造假事件
+
++ 时间
+
+    2019-02-07（事件发酵时间）
+    
++ 来源
+
+    网络
+    
+    （事件总结）新浪微博：吃瓜群众CJ
+    
+    [https://weibo.com/1885688010/HgcmluOEE](https://weibo.com/1885688010/HgcmluOEE)
+
++ 截图
+
+    ![微博截图](assets/2019-02-07-zhaitianlin.png)
+
+    ![微博图片](assets/2019-02-07-zhaitianlin-01.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-02.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-03.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-04.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-05.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-06.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-07.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-08.jpeg)
+    
+    ![微博图片](assets/2019-02-07-zhaitianlin-09.jpeg)
+
++ 原视频
+
+    [翟天临直播回答问题表示"不知知网是什么".mp4](assets/翟天临直播回答问题表示"不知知网是什么".mp4)
+
++ 相关阅读
+
+    [北电性侵事件（北电侯亮平阿廖沙）](../00/README.md#北电性侵事件（北电侯亮平阿廖沙）)
+
 # 山东省菏泽市成武县人民法院强收社会抚养费
 
 + 时间
