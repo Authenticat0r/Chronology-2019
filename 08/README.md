@@ -1,6 +1,36 @@
 第八周 (02-17 ~ 02-23)
 ======
 
+# 茂名网警指责健身女运动员发布健身视频为传播淫秽物品反被扒皮
+
++ 时间
+
+    2019-02-18
+    
++ 来源
+
+    新浪微博：茂名网警巡查执法（原博已删除）
+    
+    当事人微博：Lara殿
+    
+    [https://weibo.com/1837591523/Gq3a6DWI2](https://weibo.com/1837591523/Gq3a6DWI2)
+    
+    总结微博：五岳散人（随便找的）
+    
+    [https://weibo.com/1477045392/HhdkR4twe](https://weibo.com/1477045392/HhdkR4twe)
+    
++ 截图
+
+    ![微博截图](assets/2019-02-18-maoming-net-police.png)
+    
+    ![微博图片](assets/2019-02-18-maoming-net-police-01.jpg)
+    
+    ![微博图片](assets/2019-02-18-maoming-net-police-02.jpg)
+    
+    ![微博图片](assets/2019-02-18-maoming-net-police-03.jpg)
+    
+    ![微博图片](assets/2019-02-18-maoming-net-police-04.jpg)
+
 # [后续] 北电发布翟天临学术造假事件处理结果
 
 + 时间
