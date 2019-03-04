@@ -51,6 +51,22 @@
 
     ![新闻截图](assets/2019-02-18-iwjw-bankrupt.png)
 
+# 易读错汉字读音修改
+
++ 时间
+
+    2019-02-18
+    
++ 来源
+
+    新浪微博：中国播音主持网
+    
+    [https://weibo.com/1895622611/Hhfkve0LV](https://weibo.com/1895622611/Hhfkve0LV)
+
++ 截图
+
+    ![微博截图](assets/2019-02-18-pinyin.png)
+
 # [后续] 北电发布翟天临学术造假事件处理结果
 
 + 时间
