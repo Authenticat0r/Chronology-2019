@@ -181,6 +181,22 @@
 
     网瘾战争
 
+# 酷玩实验室向百度道歉
+
++ 时间
+
+    2019-02-20
+    
++ 来源
+
+    新浪科技
+    
+    [https://tech.sina.com.cn/i/2019-02-20/doc-ihqfskcp7064448.shtml](https://tech.sina.com.cn/i/2019-02-20/doc-ihqfskcp7064448.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-20-baidu.png)
+
 # [后续] 中宣部办流浪地球研讨会 副国级领导与会
 
 + 时间
