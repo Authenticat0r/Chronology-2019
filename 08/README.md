@@ -279,6 +279,30 @@
 
     ![新闻截图](assets/2019-02-21-doctor.png)
 
+# 滴滴裁员奖励丰厚引热议
+
++ 时间
+
+    2019-02-21（具体讨论偏早）
+    
++ 来源
+
+    网络
+    
+    蛋蛋赞（汇总）
+    
+    [http://www.twoeggz.com/news/13568446.html](http://www.twoeggz.com/news/13568446.html)
+    
+    搜狐财经（汇总）
+    
+    [http://www.sohu.com/a/297861194_100098720](http://www.sohu.com/a/297861194_100098720)
+
++ 截图
+
+    ![新闻截图](assets/2019-02-21-didi-01.png)
+
+    ![新闻截图](assets/2019-02-21-didi-02.png)
+
 # [后续] 杨永信仍任副院长坐诊
 
 + 时间
