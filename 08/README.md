@@ -67,6 +67,22 @@
 
     ![微博截图](assets/2019-02-18-pinyin.png)
 
+# 易到用车大股东韬蕴资本因耗费大量资金挽救易到致无法支撑团队运行
+
++ 时间
+
+    2019-02-19
+    
++ 来源
+
+    界面新闻
+    
+    [https://www.jiemian.com/article/2876781.html](https://www.jiemian.com/article/2876781.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-19-taoyun.png)
+
 # [后续] 游戏版号申请再度暂停
 
     原因是去年积压太多，先批去年的
