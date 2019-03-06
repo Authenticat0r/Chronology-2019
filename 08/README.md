@@ -303,6 +303,30 @@
 
     ![新闻截图](assets/2019-02-21-didi-02.png)
 
+# 两大利好促 A 股大涨
+
++ 时间
+
+    2019-02-21（文件时间）
+
++ 来源
+
+    网络
+    
+    凤凰新闻（总结）
+    
+    [https://finance.ifeng.com/c/7kVEY94mEm8](https://finance.ifeng.com/c/7kVEY94mEm8)
+
++ 截图
+
+    ![新闻截图](assets/2019-02-21-equity-market-news.png)
+
+    ![通知截图](assets/2019-02-21-equity-market.jpeg)
+
++ 原文件
+
+   [2018年第四季度中国货币政策执行报告.pdf](assets/2018年第四季度中国货币政策执行报告.pdf)
+
 # [后续] 杨永信仍任副院长坐诊
 
 + 时间
