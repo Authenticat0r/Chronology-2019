@@ -23,6 +23,26 @@
 
     [华为美.mp4](assets/华为美.mp4)
 
+# 第 91 届奥斯卡金像奖
+
+    黑豹怎么拿这么多奖？您 pay 吗？
+    
++ 时间
+
+    2019-02-25
+    
++ 来源
+
+    网络
+    
+    豆瓣电影
+    
+    [https://movie.douban.com/awards/Oscar/91/](https://movie.douban.com/awards/Oscar/91/)
+    
++ 截图
+
+    ![截图](assets/2019-02-25-the-oscars.png)
+
 # 第二次"特金会"无果而终
 
 + 时间
