@@ -1,6 +1,28 @@
 第九周 (02-24 ~ 03-02)
 ======
 
+# 《华为美》
+
+    非官方创作
+    
++ 时间
+
+    2019-02-25
+    
++ 来源
+
+    微信公众号：周丹少儿声乐教室（原文还在，视频已删除）
+    
+    [https://mp.weixin.qq.com/s/QFyEkGRag4a2ENNhM24fFA](https://mp.weixin.qq.com/s/QFyEkGRag4a2ENNhM24fFA)
+    
++ 截图
+
+    ![文章截图](assets/2019-02-25-huawei-mei.png)
+
++ 原视频
+
+    [华为美.mp4](assets/华为美.mp4)
+
 # 第二次"特金会"无果而终
 
 + 时间
