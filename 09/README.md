@@ -43,6 +43,26 @@
 
     ![截图](assets/2019-02-25-the-oscars.png)
 
+# 印巴发生武装冲突，巴方击落两架印方战机
+
++ 时间
+    
+    2019-02-27（冲突开始时间）
+
+    2019-02-27（战机击落时间）
+
++ 来源
+
+    网络
+    
+    观察者网
+    
+    [https://www.guancha.cn/military-affairs/2019_02_27_491643.shtml](https://www.guancha.cn/military-affairs/2019_02_27_491643.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-27-armed-conflict.png)
+
 # 第二次"特金会"无果而终
 
 + 时间
