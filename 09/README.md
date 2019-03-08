@@ -43,6 +43,25 @@
 
     ![截图](assets/2019-02-25-the-oscars.png)
 
+# 揭秘"茅台镇洞藏酒" 微博大 V 于建嵘曾参与售卖
+
++ 时间
+
+    2019-02-25
+    
++ 来源
+
+    新京报
+    
+    [http://www.bjnews.com.cn/inside/2019/02/25/549968.html](http://www.bjnews.com.cn/inside/2019/02/25/549968.html)
+    
+    [http://www.bjnews.com.cn/video/2019/02/25/550006.html](http://www.bjnews.com.cn/video/2019/02/25/550006.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-25-moutai.png)
+    ![微博截图](assets/2019-02-25-yujianrong.jpg)
+
 # 印巴发生武装冲突，巴方击落两架印方战机
 
 + 时间
