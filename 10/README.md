@@ -15,6 +15,22 @@
 
     ![截图](assets/2019-03-03-caixukun.jpg)
 
+# "两会"召开
+
++ 时间
+
+    2019-03-03
+    
++ 来源
+
+    哪哪都是
+    
+    [https://baike.baidu.com/item/2019%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A](https://baike.baidu.com/item/2019%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A)
+    
++ 截图
+
+    ![百科截图](assets/2019-03-03-NPC-CPPCC.png)
+
 # [后续] 检方对河北涞源入室强奸未遂被反杀案当事人作出不起诉决定
 
 + 时间
