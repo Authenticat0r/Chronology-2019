@@ -98,6 +98,28 @@
 
     ![新闻截图](assets/2019-02-28-kim-jeong-eun-trump.png)
 
+# 郑州空姐遇害案滴滴顺风车司机父母被判赔62万，曾隐匿财产
+
++ 时间
+
+    2019-02-28
+    
++ 来源
+
+    新闻
+    
+    澎湃新闻
+    
+    [https://www.thepaper.cn/newsDetail_forward_3052241](https://www.thepaper.cn/newsDetail_forward_3052241)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-28-didi.png)
+    
++ 前情提要
+
+    __TODO__ 滴滴空姐遇害案
+
 # 崔永元疑遭控制，发微博及中传新闻澄清，被识破后秒删
 
     也不知道小崔现在到底怎么样
