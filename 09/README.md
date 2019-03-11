@@ -60,6 +60,7 @@
 + 截图
 
     ![新闻截图](assets/2019-02-25-moutai.png)
+    
     ![微博截图](assets/2019-02-25-yujianrong.jpg)
 
 # 印巴发生武装冲突，巴方击落两架印方战机
@@ -81,6 +82,24 @@
 + 截图
 
     ![新闻截图](assets/2019-02-27-armed-conflict.png)
+
+# 人人车变相裁员，每天打卡三次，只抄规则
+
++ 时间
+
+    2019-02-27
+    
++ 来源
+
+    网络
+    
+    新浪新闻（汇总）
+    
+    [http://tech.sina.com.cn/i/2019-02-27/doc-ihsxncvf8259837.shtml](http://tech.sina.com.cn/i/2019-02-27/doc-ihsxncvf8259837.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-02-27-renrenche.png)
 
 # 第二次"特金会"无果而终
 
