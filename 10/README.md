@@ -119,6 +119,32 @@
 
     ![新闻截图](assets/2019-03-05-tesla.png)
 
+# 广州广雅中学采购智能手环
+
++ 时间
+
+    2018-08-16（招标时间）
+    
+    2019-03-05（热点时间）
+    
++ 来源
+
+    广州公共资源交易中心
+    
+    [http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&infoId=561110&channelId=456](http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&infoId=561110&channelId=456)
+    
+    [http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&infoId=564138&channelId=458](http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&infoId=564138&channelId=458)
+    
++ 截图
+
+    ![截图](assets/2019-03-05-bracelet-01.png)
+
+    ![截图](assets/2019-03-05-bracelet-02.png)
+    
++ 原文件
+
+    [招标文件正文.pdf](./assets/招标文件正文.pdf)
+
 # 子弹短信团队解散
 
 + 时间
