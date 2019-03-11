@@ -153,6 +153,26 @@
 
     ![新闻截图](assets/2019-03-07-tesla.png)
 
+# 湖南省叫停槟榔广告
+
++ 时间
+
+    2019-03-07
+    
++ 来源
+
+    网络
+    
+    侨报网
+    
+    [http://www.uschinapress.com/2019/0308/1158179.shtml](http://www.uschinapress.com/2019/0308/1158179.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-07-betel-nut.png)
+    
+    ![通知截图](assets/2019-03-07-betel-nut.jpeg)
+
 # [后续] 外国安全人员发现国内记录 1800 万育龄女性信息数据库
 
 + 时间
