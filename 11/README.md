@@ -30,3 +30,20 @@
     ![微博配图](assets/2019-03-10-funeral-home-03.jpg)
     
     ![详情截图](assets/2019-03-10-funeral-home-detail.png)
+
+# 埃航波音 737 max8 飞机坠毁
+
++ 时间
+
+    2019-03-10
+    
++ 来源
+
+    澎湃新闻
+    
+    [https://www.thepaper.cn/newsDetail_forward_3110936](https://www.thepaper.cn/newsDetail_forward_3110936)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-10-boeing.png)
+    
