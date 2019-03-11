@@ -76,3 +76,39 @@
 + 截图
 
     ![微博截图](assets/2019-03-05-chushijian.png)
+
+# 1600 辆特斯拉 model 3 被海关暂停放行
+
++ 时间
+
+    2019-03-05
+    
++ 来源
+
+    新闻
+    
+    新京报
+    
+    [http://www.bjnews.com.cn/auto/2019/03/05/553145.html](http://www.bjnews.com.cn/auto/2019/03/05/553145.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-05-tesla.png)
+
+# 特斯拉宣布取消中国一线销售人员提成 并关闭线下门店
+
++ 时间
+
+    2019-03-07
+    
++ 来源
+
+    新闻
+    
+    新浪财经
+    
+    [https://finance.sina.com.cn/chanjing/gsnews/2019-03-07/doc-ihsxncvh0700233.shtml](https://finance.sina.com.cn/chanjing/gsnews/2019-03-07/doc-ihsxncvh0700233.shtml)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-07-tesla.png)
