@@ -43,6 +43,26 @@
 
     ![截图](assets/2019-02-25-the-oscars.png)
 
+# 聊城"假药门"
+
+    烧伤超人阿宝已炸号
+
++ 时间
+
+    2019-02-25
+    
++ 来源
+
+    网络
+    
+    新浪新闻（医药）（汇总）
+    
+    [http://med.sina.com/article_detail_103_2_61628.html](http://med.sina.com/article_detail_103_2_61628.html)
+
++ 截图
+
+    ![新闻截图](assets/2019-02-25-liaocheng-bogus-drugs.png)
+
 # 揭秘"茅台镇洞藏酒" 微博大 V 于建嵘曾参与售卖
 
 + 时间
