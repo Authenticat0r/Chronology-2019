@@ -47,3 +47,21 @@
 
     ![新闻截图](assets/2019-03-10-boeing.png)
     
+# 教育部长强行减负，记者采访表示"宝宝"不高兴，后果很严重
+
++ 时间
+
+    2019-03-12
+    
++ 来源
+
+    新闻
+    
+    新浪新闻
+    
+    [https://news.sina.com.cn/gn/2019-03-12/detail-ihrfqzkc3238149.d.html](https://news.sina.com.cn/gn/2019-03-12/detail-ihrfqzkc3238149.d.html)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-12-chenbaosheng.png)
+    
