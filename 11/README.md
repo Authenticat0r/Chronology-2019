@@ -49,6 +49,8 @@
     
 # 女子云南相亲欲离开遭阻挠 警察表示两人已是夫妻，需父母同意才可离开
 
+    搜狐发新闻的时候没核实，瞎几把转
+
 + 时间
 
     2019-03-11
@@ -83,3 +85,26 @@
 
     ![新闻截图](assets/2019-03-12-chenbaosheng.png)
     
+# 新西兰基督城清真寺枪击案
+
++ 时间
+
+    2019-03-15
+    
++ 来源
+
+    8chan
+    
+    facebook 直播
+    
++ 原视频
+
+    [christchurch-mosque-shootings-01](./assets/christchurch-mosque-shootings-01.mp4)
+    
+    [christchurch-mosque-shootings-02](./assets/christchurch-mosque-shootings-02.mp4)
+    
+    [christchurch-mosque-shootings-03](./assets/christchurch-mosque-shootings-03.mp4)
+
++ 原文件
+
+    [TARRANT Benton The Great Replacement](./assets/TARRANT-Benton-The-Great-Replacement.pdf)
