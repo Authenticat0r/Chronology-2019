@@ -85,6 +85,26 @@
 
     ![新闻截图](assets/2019-03-12-chenbaosheng.png)
     
+# 成都七中食物中毒事件
+
++ 时间
+
+    2019-03-13
+    
++ 来源
+
+    网络
+    
+    新京报
+    
+    [http://www.sohu.com/a/300966518_114988](http://www.sohu.com/a/300966518_114988)
+    
++ 截图
+
+    ![新闻截图](assets/2019-03-13-food-poisoning.png)
+    
+    ![微博截图](assets/2019-03-13-food-poisoning-01.png)
+    
 # 新西兰基督城清真寺枪击案
 
 + 时间
